@@ -10,7 +10,7 @@ setup(
         "scipy==1.5",
         "pandas==1.0",
         "scikit-learn==0.22",
-        "joblib==0.15",
+        "joblib==1.2.0",
         "nibabel==3.0.0",
         "lxml",
         "quo",
